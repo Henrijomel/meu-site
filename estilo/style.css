@@ -1,0 +1,13 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+body{
+    border-color: rgba(236, 204, 242, 0.516);
+}
+main{
+    border-color: whitesmoke;
+    width: 500px;
+    margin: auto;
+    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.324);
+    padding: 10px;
+}
